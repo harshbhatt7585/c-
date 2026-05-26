@@ -8,4 +8,3 @@ int main() {
     } while (work_items > 0);
     return 0;
 }
-
